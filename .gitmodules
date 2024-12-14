@@ -1,0 +1,3 @@
+[submodule "kroma-app"]
+	path = kroma-app
+	url = https://github.com/SalahHaddara/kroma-app
