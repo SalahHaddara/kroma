@@ -1,3 +1,6 @@
 [submodule "kroma-app"]
 	path = kroma-app
 	url = https://github.com/SalahHaddara/kroma-app
+[submodule "kroma-server"]
+	path = kroma-server
+	url = https://github.com/SalahHaddara/kroma-server
