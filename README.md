@@ -18,7 +18,7 @@
 
 ### Kroma is built using the following technologies:
 
-- This project uses the MERN stack (MongoDB, [Express.js](https://expressjs.com), [React.js](https://react.dev), [Node.js](https://nodejs.org)) to create a powerful and scalable web application. The stack enables seamless development of both frontend and backend components.
+- This project uses the MERN stack ([MongoDB](https://www.mongodb.com), [Express.js](https://expressjs.com), [React.js](https://react.dev), [Node.js](https://nodejs.org)) to create a powerful and scalable web application. The stack enables seamless development of both frontend and backend components.
 - For the frontend, [React.js](https://react.dev) powers our responsive interface, complemented by [Tailwind CSS](https://tailwindcss.com) for sleek styling and the [Figma Plugin API](https://www.figma.com/plugin-docs/intro) for direct integration with design workflows.
 - The backend is built with [Node.js](https://nodejs.org) and [Express.js](https://expressjs.com), handling AI integrations and image processing. [MongoDB](https://www.mongodb.com) stores user data and moodboard configurations securely.
 - For AI-powered features, we utilize [OpenAI's API](https://platform.openai.com) for natural language processing and image analysis, enabling intelligent moodboard generation and UI/UX suggestions.
