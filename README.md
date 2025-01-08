@@ -7,9 +7,15 @@
 > An AI-powered tool for generating moodboards, integrating style suggestions and export functionality to streamline design workflows.
 
 ### User Stories
+
+##User
 - As a user, I want to make a moodboard for my new website, so I can type my prompt in the specified field and click generate to generate my moodboard.
 - As a user, I want to generate a moodboard based on a screenshot, so I can upload the screenshot and click generate to generate the moodboard based on it.
 - As a user, I want to improve my ui desing, so I can take upload my design and click generate to generate ai suggestions to ba made on my existing design.
+
+##Admin
+- As an admin, I want to view all users, so I can manage and monitor them effectively.
+- As an admin, I want to view all moodboards generated, so I can oversee and analyze user activity.
 
 <br><br>
 
