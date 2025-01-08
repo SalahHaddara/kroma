@@ -4,7 +4,7 @@
 <!-- project philosophy -->
 <img src="readme/title2.svg"/>
 
-> An AI-powered tool for generating moodboards, integrating style suggestions and export functionality to streamline design workflows.
+> Meet Kroma - your AI design buddy that turns ideas into stunning moodboards in seconds. Drop in a picture or type what you want, and watch as fresh design inspiration comes to life in Figma. Got a tricky UI? Kroma spots ways to make it even better. From bright ideas to beautiful designs, Kroma makes creativity feel like magic.
 
 ### User Stories
 
