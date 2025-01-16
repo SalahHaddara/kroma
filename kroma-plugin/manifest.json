@@ -1,0 +1,21 @@
+{
+  "name": "Component Importer",
+  "id": "1234567890",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "http://localhost:3000",
+      "http://localhost:5173"
+    ],
+    "devAllowedDomains": [
+      "http://localhost:3000",
+      "http://localhost:5173"
+    ],
+    "reasoning": "This plugin needs to communicate with a local development server to fetch component data"
+  }
+}
