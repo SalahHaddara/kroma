@@ -4,6 +4,3 @@
 [submodule "kroma-server"]
 	path = kroma-server
 	url = https://github.com/SalahHaddara/kroma-server
-[submodule "kroma-plugin"]
-	path = kroma-plugin
-	url = https://github.com/SalahHaddara/kroma-plugin
