@@ -82,13 +82,13 @@ Here you'll find our comprehensive database schema that outlines the structure a
 |------------------------------------------------------------|-------------------------------------------------------------|
 | ![Moodboard History](./readme/gifs/moodboards_history.gif) | ![Image to Moodboard](./readme/gifs/image_to_moodboard.gif) |
 
-| Landing Page Navigation                         | UI Analysis Feature                           |
-|-------------------------------------------------|-----------------------------------------------|
-| ![Landing Page](./readme/gifs/landing_page.gif) | ![UI Analysis](./readme/gifs/ui_analysis.gif) |
+| Landing Page Navigation                         | Landing Page light                                          |
+|-------------------------------------------------|-------------------------------------------------------------|
+| ![Landing Page](./readme/gifs/landing_page.gif) | ![Landing Page Light](./readme/gifs/landing_page_light.gif) |
 
-| Text Prompt to Moodboard                                      | Landing Page light                                          |
-|---------------------------------------------------------------|-------------------------------------------------------------|
-| ![Prompt to Moodboard](./readme/gifs/prompt_to_moodboard.gif) | ![Landing Page Light](./readme/gifs/landing_page_light.gif) |
+| Text Prompt to Moodboard                                      | UI Analysis Feature                           |
+|---------------------------------------------------------------|-----------------------------------------------|
+| ![Prompt to Moodboard](./readme/gifs/prompt_to_moodboard.gif) | ![UI Analysis](./readme/gifs/ui_analysis.gif) |
 
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
