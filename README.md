@@ -56,9 +56,13 @@
 
 ### Mockups
 
-| Authentication Screen                         | Design Analysis Screen                  | Mood-board History Screen            |
-|-----------------------------------------------|-----------------------------------------|--------------------------------------|
-| ![Authentication](./readme/mockups/img_1.png) | ![Analysis](./readme/mockups/img_2.png) | ![History](./readme/mockups/img.png) |
+| Authentication Screen                         | Design Analysis Screen                  |
+|-----------------------------------------------|-----------------------------------------|
+| ![Authentication](./readme/mockups/img_1.png) | ![Analysis](./readme/mockups/img_2.png) |
+
+| Mood-board History Screen            | Prompt to Moodboard Screen                         |
+|--------------------------------------|----------------------------------------------------|
+| ![History](./readme/mockups/img.png) | ![Prompt to Moodboard](./readme/mockups/img_3.png) |
 
 <br><br>
 <!-- Database Design -->
@@ -138,9 +142,6 @@ These prompts have been engineered to:
    MONGODB_URI=mongodb://127.0.0.1:27017/kroma
    JWT_SECRET=your_jwt_secret_key
 
-   GOOGLE_CLIENT_ID=your_google_client_id
-   GOOGLE_CLIENT_SECRET=your_google_client_secret
-
    FRONTEND_URL=http://localhost:3000
    ```
 
@@ -153,14 +154,4 @@ These prompts have been engineered to:
    ```sh
    cd ../kroma-client
    npm install
-   ```
-
-7. Create a .env file in the client directory:
-   ```js
-   VITE_API_URL=http://localhost:3000
-   ```
-
-8. Start the development server
-   ```sh
-   npm run dev
    ```
