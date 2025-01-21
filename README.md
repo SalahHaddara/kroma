@@ -56,13 +56,9 @@
 
 ### Mockups
 
-| Authentication Screen                         | Design Analysis Screen                  |
-|-----------------------------------------------|-----------------------------------------|
-| ![Authentication](./readme/mockups/img_1.png) | ![Analysis](./readme/mockups/img_2.png) |
-
-| Mood-board History Screen            | Prompt to Moodboard Screen                         |
-|--------------------------------------|----------------------------------------------------|
-| ![History](./readme/mockups/img.png) | ![Prompt to Moodboard](./readme/mockups/img_3.png) |
+| Prompt to Moodboard Screen                         | Design Analysis Screen                  |
+|----------------------------------------------------|-----------------------------------------|
+| ![Prompt to Moodboard](./readme/mockups/img_3.png) | ![Analysis](./readme/mockups/img_2.png) |
 
 <br><br>
 <!-- Database Design -->
@@ -111,6 +107,27 @@ These prompts have been engineered to:
 - Provide detailed UI/UX analysis with actionable insights
 - Ensure consistent and high-quality design outputs
 - Maintain brand cohesion while allowing for creative exploration
+
+<!-- AWS Deployment -->
+<img src="./readme/title8.svg"/>
+
+### AI Deployment Simplified: Enabling seamless integration and scalability with AWS
+
+- This project shows you how to easily set up and run AI language models using AWS cloud services.
+- We focus on making these AI systems work smoothly and handle more users as needed, ensuring they
+- respond quickly and reliably for different business needs.
+
+| Login                       | Sign Up                     |
+|-----------------------------|-----------------------------|
+| ![a](./readme/aws/aws1.png) | ![s](./readme/aws/aws2.png) |
+
+| Design Tokens               | Design Tokens               |
+|-----------------------------|-----------------------------|
+| ![d](./readme/aws/aws3.png) | ![d](./readme/aws/aws4.png) |
+
+<br><br>
+
+
 
 <!-- How to run -->
 <img src="./readme/title10.svg"/>
