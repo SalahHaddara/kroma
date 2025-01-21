@@ -45,6 +45,7 @@
   image analysis, enabling intelligent moodboard generation and UI/UX suggestions.
 
 <br><br>
+
 <!-- UI UX -->
 <img src="readme/title4.svg"/>
 
@@ -61,6 +62,7 @@
 | ![Prompt to Moodboard](./readme/mockups/img_3.png) | ![Analysis](./readme/mockups/img_2.png) |
 
 <br><br>
+
 <!-- Database Design -->
 <img src="readme/title5.svg"/>
 Here you'll find our comprehensive database schema that outlines the structure and relationships of our application:
@@ -68,6 +70,8 @@ Here you'll find our comprehensive database schema that outlines the structure a
 | Design Analysis                                    | Design Token History                                | User                                                |
 |----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
 | ![Database Schema 1](./readme/database/carbon.png) | ![Database Schema 2](./readme/database/carbon2.png) | ![Database Schema 3](./readme/database/carbon3.png) |
+
+<br><br>
 
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
