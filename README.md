@@ -73,6 +73,7 @@ Here you'll find our comprehensive database schema that outlines the structure a
 
 <br><br>
 
+
 <!-- Implementation -->
 <img src="./readme/title6.svg"/>
 
@@ -112,6 +113,9 @@ These prompts have been engineered to:
 - Ensure consistent and high-quality design outputs
 - Maintain brand cohesion while allowing for creative exploration
 
+<br><br>
+
+
 <!-- AWS Deployment -->
 <img src="./readme/title8.svg"/>
 
@@ -130,7 +134,6 @@ These prompts have been engineered to:
 | ![d](./readme/aws/aws3.png) | ![d](./readme/aws/aws4.png) |
 
 <br><br>
-
 
 
 <!-- How to run -->
