@@ -98,7 +98,7 @@ Here you'll find our comprehensive database schema that outlines the structure a
 <!-- Prompt Engineering -->
 <img src="./readme/title7.svg"/>
 
-### Mastering AI Interaction: Prompting Strategies for Design Intelligence
+### Crafting AI prompts: Prompting Strategies for Design Intelligence
 
 Here we showcase our carefully crafted prompts that power Kroma's AI capabilities:
 
